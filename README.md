@@ -46,7 +46,7 @@ web3-python-tools/
 Clone the repository
 
 ```
-git clone https://github.com/your-username/web3-python-tools.git
+git clone https://github.com/nicky79eth/web3-python-tools.git
 cd web3-python-tools
 ```
 
