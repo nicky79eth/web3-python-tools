@@ -8,8 +8,8 @@ This repository provides lightweight utilities for reading blockchain data, chec
 
 ## Features
 
-* Check wallet balance
-* Send transactions
+* Check wallet balance.
+* Send transactions.
 * Read smart contract data
 * Fetch blockchain information
 
